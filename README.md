@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxabrahamsson
 - 👀 I’m interested in; stuff
 - 🌱 I’m currently learning about; this feature on github
-- 💞️ I’m looking to collaborate; on earth
+- 💞️ I’m looking to collaborate on; earth
 - 📫 How to reach me; morse code
 
 <!---
